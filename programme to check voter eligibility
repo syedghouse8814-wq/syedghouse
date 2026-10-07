@@ -1,0 +1,17 @@
+//programe to check voters eligibility
+#include <stdio.h>
+ intmain()
+{
+int age;
+printf("voters age");
+scanf("%d/age");
+if(age>=18);
+{
+
+printf("eligible");
+}
+else
+{
+printf("not eligible");
+return0;
+}
